@@ -393,7 +393,7 @@ namespace Jogo_da_cobrinha
             Tempodejogo.Stop();
 
 
-
+            Barra.Visible = true; Barratxt.Visible = true;
 
             recordes();
 
