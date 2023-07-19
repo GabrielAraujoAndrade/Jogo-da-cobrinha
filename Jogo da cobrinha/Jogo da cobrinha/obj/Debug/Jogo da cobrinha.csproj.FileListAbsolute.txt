@@ -1,0 +1,22 @@
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\bin\Debug\Jogo da cobrinha.exe.config
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\bin\Debug\Jogo da cobrinha.exe
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\bin\Debug\Jogo da cobrinha.pdb
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.AssemblyReference.cache
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo_da_cobrinha.Form1.resources
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo_da_cobrinha.Properties.Resources.resources
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.GenerateResource.cache
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.CoreCompileInputs.cache
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.exe
+C:\Users\m29422\source\repos\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.pdb
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo_da_cobrinha.Form1.resources
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo_da_cobrinha.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.exe
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\obj\Debug\Jogo da cobrinha.pdb
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\bin\Debug\Jogo da cobrinha.exe.config
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\bin\Debug\Jogo da cobrinha.exe
+C:\Users\Gabriel\Desktop\Jogo da cobrinha-20230703T232648Z-001\Jogo da cobrinha\Jogo da cobrinha\bin\Debug\Jogo da cobrinha.pdb
