@@ -18,9 +18,13 @@ O jogo possui três níveis de dificuldade:
 - Fácil: A cobra se move mais devagar e o objetivo principal e comer o maximo de frutas possiveis.
 - Médio: Velocidade intermediária.
 - Difícil: A cobra se move rapidamente e é necessário alcançar um recorde mais alto.
-# Instalação
 
-  Baixe o Cobrinha.Exe e se divirta!
 # Codigo Base 
 Refiz e traduzi o codigo de OttoBotCode no youtube e adicionei opcoes como os controles de finalizar reiniciar e iniciar o jogo, e tambem o efeito visual de troca de cor ao comer a fruta.
 [Video Codigo Original](https://youtu.be/uzAXxFBbVoE?si=6Vs3Xic51dkE6kMH)
+
+# Instalação
+
+  Baixe o Cobrinha.Exe e se divirta!
+  
+
