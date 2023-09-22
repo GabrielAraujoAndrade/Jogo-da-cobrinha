@@ -21,3 +21,6 @@ O jogo possui três níveis de dificuldade:
 # Instalação
 
   Baixe o Cobrinha.Exe e se divirta!
+# Codigo Base 
+Refiz e traduzi o codigo de OttoBotCode no youtube e adicionei opcoes como os controles de finalizar reiniciar e iniciar o jogo, e tambem o efeito visual de troca de cor ao comer a fruta.
+[Video Codigo Original](https://youtu.be/uzAXxFBbVoE?si=6Vs3Xic51dkE6kMH)
